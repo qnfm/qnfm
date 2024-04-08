@@ -96,9 +96,6 @@
 
 <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" alt="Fire" width="25" height="25" /> My projects:
 ---
-### Personal Portfolio
-- [Data Structures & Algorithms](https://github.com/qnfm/leetcode) - My leetcode answers.
-- [Post Quantum WireGuard](https://github.com/qnfm/pq-wireguard-go) - Post quantum implementation of WireGuard.
 
 ## My public key
 
